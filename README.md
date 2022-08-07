@@ -23,7 +23,7 @@ Follow the latest news on major virtual currencies, including Bitcoin, Ethereum,
 
 **Dependency Injection:** Dagger-Hilt
 
-**API:** Retrofit
+**REST API:** Retrofit
 
 **Database:** Room
 
